@@ -1,0 +1,21 @@
+{
+  "name": "parqueadero_backend",
+  "version": "1.0.0",
+  "description": "Proyecto MinTic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Santiago Jaramillo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
